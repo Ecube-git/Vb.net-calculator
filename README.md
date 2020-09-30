@@ -5,8 +5,8 @@ Code Below
 
 Public Class Form1
     Dim result As String
-    Dim result1 As Str
-    Dim operate As Str
+    Dim result1 As String
+    Dim operate As String
 
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
